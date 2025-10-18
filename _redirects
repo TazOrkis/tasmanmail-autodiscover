@@ -1,0 +1,3 @@
+/.well-known/autoconfig/mail/config-v1.1.xml  /mail/config-v1.1.xml  301!
+/.well-known/caldav https://caldav.forwardemail.net/ 301!
+/.well-known/carddav https://carddav.forwardemail.net/ 301!
